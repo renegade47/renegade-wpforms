@@ -6,7 +6,7 @@ This plugin is a collection of front-end custom WordPress Forms
 
 To find more about and installing the plugin you can read this article:
 
-https://utopian.io/utopian-io/@vallesleoruther/designing-the-renegade-wp-forms-logo
+https://utopian.io/utopian-io/@vallesleoruther/renegade-wp-forms-a-collection-of-custom-front-end-forms-for-wordpress
 
 ## Built With
 
